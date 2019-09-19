@@ -19,7 +19,7 @@ app.use(cors({
 
 app.use(formData.parse())
 
-app.get('/wake-up', (req, res) => res.send('👌'))
+app.get('/wake-up', (req, res) => res.send("hae i am pett"))
 
 app.post('/image-upload', (req, res) => {
 
@@ -32,4 +32,4 @@ app.post('/image-upload', (req, res) => {
     .catch((err) => res.status(400).json(err))
 })
 
-app.listen(process.env.PORT || 8080, () => console.log('👍'))
+app.listen(process.env.PORT || 8080, () => console.log('hello'))

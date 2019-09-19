@@ -5,9 +5,7 @@ import { faMediumM, faGithub  } from '@fortawesome/fontawesome-free-brands'
 export default () => (
   <footer>
     <a 
-    <h1>
-    terms and conditions apply
-    </h1>
+  
     href = "peterkangogo501@gmail.com"
       title='Email Info'
       className={'small-button medium'}
