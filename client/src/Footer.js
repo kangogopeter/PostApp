@@ -6,7 +6,7 @@ export default () => (
   <footer>
     <a 
   
-    href = "peterkangogo501@gmail.com"
+    href = "https//:Email/peterkangogo501@gmail.com/"
       title='Email Info'
       className={'small-button medium'}
     >
