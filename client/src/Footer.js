@@ -8,13 +8,14 @@ export default () => (
     <h1>
     terms and conditions apply
     </h1>
-      title='Articles'
+    href = "peterkangogo501@gmail.com"
+      title='Email Info'
       className={'small-button medium'}
     >
       <FontAwesomeIcon icon={faMediumM} size='3x' color='#fff' />
     </a>
     <a 
-    href="" 
+    href="https://github.com/kangogopeter/PostApp.git" 
       title='MY Github'
       className={'small-button github'}
     >
